@@ -1,4 +1,4 @@
-# stripe-payment-fs - Stripe payment demo with Embedded Checkout
+# Stripe payment demo with Embedded Checkout
 
 A demo implementation of Stripe payment using Node.js for the backend and React for the frontend.
 
